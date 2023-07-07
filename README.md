@@ -1,5 +1,4 @@
 # Lafes-Photon-Quick-Start 🌐
----
 Lafe's Photon Quick Start is a tool that allows you to quickly implement basic optimised multiplayer functionality using Photon PUN.
 
 ## Compatibility
